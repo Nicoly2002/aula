@@ -1,6 +1,6 @@
 Aula 25/03
 
-Nicoly Cristina 2519155
+Nicoly Cristina 
  5 Semestre de ADS Manha
 
 1. Qual é o objetivo do algoritmo?
